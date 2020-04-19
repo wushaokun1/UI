@@ -9,13 +9,17 @@
 ##实验一：
 
 ###  利用SimpleAdapter实现如下界面效果
+
+###  代码如下：
+
 ###  布局代码：
 
 [点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/res/layout/list_items.xml)</br>
+
 [点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/res/layout/simple.xml)</br>
 ###  java代码：
 
-[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/MainActivity)</br>
+[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/MainActivity.java)</br>
 
 
 ###     实验结果截图：
@@ -38,7 +42,7 @@
 
 ###  java代码：
 
-[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/Dialog)</br>
+[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/Dialog.class)</br>
 
 * 实验使用表格布局实现的效果
 
