@@ -24,7 +24,7 @@
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1583991478.png" width="375" />
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293035.png" width="375" />
 
 
 
@@ -42,15 +42,15 @@
 
 ###  java代码：
 
-[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/Dialog.class)</br>
+[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/Dialog.java)</br>
 
 * 实验使用表格布局实现的效果
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1583991549.png" width="375" />
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293024.png" width="375" />
 
-
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293020.png" width="375" />
 
 
 ##实验三：
@@ -65,7 +65,7 @@
 
 ###   java代码
 
-[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/MenuTutorial)</br>
+[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/MenuTutorial.java)</br>
 
 
 主要用到以下几个功能：</br>
@@ -82,9 +82,13 @@
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1584586684.png" width="375" />
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293048.png" width="375" />
 
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293050.png" width="375" />
 
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293056.png" width="375" />
+
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293060.png" width="375" />
 
 
 ##实验四：
@@ -101,10 +105,12 @@
 
 ###   java代码
 
-[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/ContextualAction)</br>
+[点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/ContextualAction.java)</br>
 
 * 实验使用表格布局实现的效果
 
 ###     实验结果截图：
 
-<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1583991549.png" width="375" />
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587291403.png" width="375" />
+
+<img src="https://github.com/wushaokun1/UI/blob/master/screenshots/Screenshot_1587293006.png" width="375" />
