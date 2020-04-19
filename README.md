@@ -44,7 +44,13 @@
 
 [点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/Dialog.java)</br>
 
-* 实验使用表格布局实现的效果
+主要用到以下几个功能：</br>
+
+>> 1.创建一个如图的布局</br>
+
+
+>> 2.调用AlertDialog.Builder 对象上的 setView()将布局添加到AlertDialog</br>
+
 
 ###     实验结果截图：
 
@@ -70,15 +76,11 @@
 
 主要用到以下几个功能：</br>
 
->> 1.用屏障功能实现不同控件的边的对齐</br>
+>> 1.字体大小（有小，中，大这三个选项；分别为10，16，20号字体）；点击后设计测试文本的字体</br>
 
->>> 绿色矩形右边和橙色矩形左边对齐，紫色矩形右边和橙色矩形右边对齐</br>
+>> 2.普通菜单项，点击之后弹出Toast提示</br>
 
->> 2.给多个控件建立链的关系，使之在水平方向保持对齐</br>
-
->>> 绿、蓝、紫三个矩形对齐</br>
-
->> 3.利用Attributes窗口的Layout部分调整约束</br>
+>> 3.字体颜色（有红色和黑色这两个选项），点击之后设置测试文本的字体</br>
 
 ###     实验结果截图：
 
@@ -107,7 +109,12 @@
 
 [点此查看实验代码](https://github.com/wushaokun1/UI/blob/master/app/src/main/java/edu/fjnu/ui/ContextualAction.java)</br>
 
-* 实验使用表格布局实现的效果
+主要用到以下几个功能：</br>
+
+>> 1.使用ListView或者ListActivity创建List</br>
+
+>> 2.为List Item创建ActionMode形式的上下文菜单</br>
+
 
 ###     实验结果截图：
 
